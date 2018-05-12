@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33764'
     url: http://www.gutenberg.org/2009/agents/33764
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29211#Prevalence-of-Imprisonment-in-the-U.S.-Population-1974-2001
 gutenberg_issued: '2009-06-23'
 gutenberg_type: Text
 identifiers:
