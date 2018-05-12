@@ -1,0 +1,26 @@
+_repo: Prevalence-of-Imprisonment-in-the-U.S.-Population-1974-2001_29211
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonczar, Thomas P.
+    gutenberg_agent_id: '33764'
+    url: http://www.gutenberg.org/2009/agents/33764
+description: ''
+gutenberg_issued: '2009-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29211'
+  lccn: '2003373566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Prisoners -- United States -- Statistics'
+- !lcsh 'Imprisonment -- United States -- Statistics'
+title: Prevalence of Imprisonment in the U.S. Population, 1974-2001
+url: http://www.gutenberg.org/ebooks/29211
